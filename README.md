@@ -123,10 +123,10 @@ dominos-analysis/
 │   └── pizza_data.csv
 │
 ├── notebook/
-│   └── analysis.ipynb
+│   └── dominos-analysis.ipynb
 │
 ├── dashboard/
-│   └── powerbi_dashboard.pbix
+│   └── dominos-analysis.pbix
 │
 ├── images/
 │   └── dashboard.png
